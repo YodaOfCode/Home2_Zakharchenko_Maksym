@@ -1,0 +1,83 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  width: 595px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+.main-heading {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.authors {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.corporation {
+  display: block;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.introduction {
+  font-size: 18px;
+}
+
+.introdaction-first-p {
+  font-weight: bold;
+}
+
+.introdaction-third-p {
+   font-style: italic;
+   text-align: center;
+}
+
+.darknet {
+  font-size: 18px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.sentral-internet-servers {
+  font-size: 16px;
+}
+
+.parashute-img {
+  width: 280px;
+  background-position: top;
+  float: left;
+}
+
+.flowing-text {
+  float: center;
+}
+
+.sentral-internet-servers-first-p {
+  text-align: right;
+}
+
+.hanging-mouse {
+  display: flex;
+  justify-content: center;
+}
+
+.hanging-mouse-img {
+  width: 300px;
+}
